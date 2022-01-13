@@ -11,3 +11,4 @@
 * 전체적인 theme 적용시 primaryColor -> primarySwatch로 바뀜
 * pubspec.yaml 파일 assets 등록 에러발생시 구체적인 경로까지 다 입력
 * 여기서는 재사용하는 위젯 함수로 작성하였지만 다른 화면에서도 재사용하려면 공통 컴포넌트 위젯으로 관리하는게 좋음
+* ![IMG_0001](https://user-images.githubusercontent.com/77865395/149319222-25bf4ab3-6b95-40d6-ba87-ab4f6ec033f5.PNG) 
